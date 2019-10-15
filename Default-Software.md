@@ -17,3 +17,4 @@
 * [Java](https://www.java.com/nl/download/)
 * [Node.js](https://nodejs.org/en/download/)
 * [WinSCP](https://winscp.net/eng/download.php)
+* [Cura](https://ultimaker.com/software/ultimaker-cura)
