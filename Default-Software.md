@@ -14,7 +14,7 @@
 * [Steam](https://store.steampowered.com/about/)
 * [Epic games launcher](https://www.epicgames.com/unrealtournament/download)
 * [GeForce Experience](https://www.nvidia.com/nl-nl/geforce/geforce-experience/) if nvidia card installed.
-* [Logitech Gaming Software](https://support.logi.com/hc/en-001/articles/360025298053-Logitech-Gaming-Software)
+* [Logitech Gaming Software](https://download01.logi.com/web/ftp/pub/techsupport/gaming/LGS_8.82.151_x64_Logitech.exe)
 * [Minecraft](https://launcher.mojang.com/download/MinecraftInstaller.msi)
 
 ## Text
@@ -39,7 +39,7 @@
 * [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 * [AmoK Exif Sorter](http://www.amok.am/en/freeware/amok_exif_sorter/download/)
 * [balenaEtcher](https://www.balena.io/etcher/)
-* [Dell Display Manager](https://www.dell.com/support/article/nl/nl/nldhs1/qna44541/wat-is-dell-display-manager?lang=nl)
+* [Dell Display Manager](https://www.dell.com/support/home/nl/nl/nlbsdt1/drivers/driversdetails?driverid=3v6jh)
 * [Handbrake](https://handbrake.fr/downloads.php)
 
 ## Modelling
