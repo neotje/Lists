@@ -33,6 +33,7 @@
 ## Files
 * [WinSCP](https://winscp.net/eng/download.php)
 * [Git](https://git-scm.com/downloads)
+* [7-Zip](https://www.7-zip.org/)
 
 ## utility
 * [Java](https://www.java.com/nl/download/)
