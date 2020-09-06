@@ -57,4 +57,10 @@ HTMl attributes geven extra informatie over een html element.
 * alle html elementen kunnen attributen hebben.
 * Attributes geven extra informatie over het element
 * Attributes staan altijd in the begin tag.
-* Attributes komen meestal voor in een naam/waarde paar bijv.: naam="waarde"
+* Attributes komen meestal voor in een naam/waarde paar bijv.: naam van attribute="waarde"
+
+bijvoorbeeld
+```html
+   naam="waarde"
+<a href="https://www.hop-it.nl">Leuk websijtje</a>
+```
